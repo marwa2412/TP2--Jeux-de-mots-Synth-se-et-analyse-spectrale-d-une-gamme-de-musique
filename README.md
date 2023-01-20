@@ -31,6 +31,7 @@
     7. Notez que le signal initial de parole est un vecteur colonne contenant un certain nombre de valeurs (length(x)). Réarrangez ce vecteur 
        <img width="788" alt="7" src="https://user-images.githubusercontent.com/86896531/213684239-1014f07d-f831-4d26-854e-939db9d465ba.png">
  - Partie 2 : Synthèse et analyse spectrale d’une gamme de musique
+ 
    2.1: Synthèse d’une gamme de musique 
       1. Créez un programme qui permet de jouer une gamme de musique
        <img width="790" alt="2 1" src="https://user-images.githubusercontent.com/86896531/213686744-86bf3de3-25ba-424a-8fbf-dcb03e0e0977.png">
