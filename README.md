@@ -1,18 +1,18 @@
 # TP2-Jeux de mots & Synthèse et analyse spectrale d'une gamme de musique
+
+## Introduction
+     Les jeux de mots sont des phrases ou des expressions qui jouent sur les sonorités ou les significations des mots. Dans le domaine de la musique, la synthèse 
+     spectrale est une technique utilisée pour créer des sons en combinant différentes fréquences. Cela permet de créer des timbres riches et complexes.
+     La synthèse spectrale peut être utilisée pour créer des instruments virtuels ou pour moduler des sons enregistrés. L'analyse spectrale est l'inverse de la 
+     synthèse spectrale. Il s'agit d'une technique utilisée pour décomposer un son en ses différentes fréquences. Cela permet de comprendre comment un son est créé 
+     et de découvrir les différentes caractéristiques d'un son.
+     
 ## Objectifs
 
       1. Comprendre comment manipuler un signal audio avec Matlab, en effectuant certaines opérations classiques sur un fichier audio d’une phrase enregistrée via 
        un smartphone.
       2. Comprendre la notion des sons purs à travers la synthèse et l’analyse spectrale d’une gamme de musique.
   
-## Introduction
-     Les jeux de mots sont des phrases ou des expressions qui jouent sur les sonorités ou les significations des mots. Dans le domaine de la musique, la synthèse 
-     spectrale est une technique utilisée pour créer des sons en combinant différentes fréquences. Cela permet de créer des timbres riches et complexes.
-     La synthèse spectrale peut être utilisée pour créer des instruments virtuels ou pour moduler des sons enregistrés. L'analyse spectrale est l'inverse de la 
-     synthèse
-     spectrale. Il s'agit d'une technique utilisée pour décomposer un son en ses différentes fréquences. Cela permet de comprendre comment un son est créé et de 
-     découvrir
-     les différentes caractéristiques d'un son.
 ## Réalisation du TP
 
 #### Partie 1 : Jeux de mots
